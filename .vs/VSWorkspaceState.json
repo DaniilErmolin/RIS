@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Chat",
+    "\\Chat\\Chat",
+    "\\Chat\\Chat\\Models",
+    "\\Client",
+    "\\Client\\Models",
+    "\\Client\\Services",
+    "\\Client\\Views"
+  ],
+  "SelectedNode": "\\Client\\Views\\MainWindow.xaml",
+  "PreviewInSolutionExplorer": false
+}

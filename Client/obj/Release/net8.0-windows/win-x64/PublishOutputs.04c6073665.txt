@@ -1,0 +1,2 @@
+D:\Univ\COURSACHS\RIS\Client\bin\Release\net8.0-windows\win-x64\publish\Client.pdb
+D:\Univ\COURSACHS\RIS\Client\bin\Release\net8.0-windows\win-x64\publish\Client.exe
